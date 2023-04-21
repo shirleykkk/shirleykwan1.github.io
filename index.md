@@ -8,11 +8,11 @@
  <h3>-My hobby-</h3>
  <p>i like to take photos with my film camera with my friends in my free time and singing,dancing also .In addition,i like to watch kpop videos in my free time too,it bring a lot of fun to me.</P>
  <h4><u>Here some photos that shoots by me<u></h4>
- ----------
-  <img src="       " >:<img src="       >
- <img src="       " >:<img src="       >
- <img src="       " >:<img src="       >
-
+<tr>
+  <img src="       " ><img src="       >
+ <img src="       " ><img src="       >
+ <img src="       " ><img src="       >
+  </tr>
 
 <p>Know more about me through my social media!</p>
 <a href="https://www.instagram.com/4k12s08y/"><img src="instagramicon.png" alt=“my instagram” width="200" ,heigh="200" ></a>
