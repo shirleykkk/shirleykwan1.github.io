@@ -6,9 +6,12 @@
 <h2>About me</h2>
 <p1>I am Shirley Kwan who studying in course <a href="https://www5.scope.edu/programmes/bachelors-degree-top-up/bsc-hons-information-technology-business">Fundamentals of Business Programming</a>that set up by Coventry University.</p1>
 
-<h3>-My study objectives-</h3>
+<h3>-My study objectives and reflection -</h3>
   
-<p>My first objectives is to gain knowledge and skills of basic computing that can benefit me in my future careers and personal lives.And the second study objective is to 
+<p>My first objectives is to gain knowledge and skills of basic computing that can benefit me in my future careers and personal lives.
+  And the second study objective is to improve different skills during the lesson and practicing 
+  as studying in IT can mainly will mainly use three skills,technical skills,problem-solving skills and communication skills.
+I hope i can have a visible improvment after next semester.</p>
  
 
 
