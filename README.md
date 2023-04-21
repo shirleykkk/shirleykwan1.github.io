@@ -24,6 +24,7 @@
 
  <p>Know more about me through my social media!</p>
  <a href="https://www.instagram.com/4k12s08y/"><img src="instagramicon.png" alt=“my instagram” width="200",heith="200"></a>
- <a href="https://wa.me/55459488"><img src="WhatsAppButtonGreenLarge.png" alt="Chat on WhatsApp"></a>
+ <br>
+ <a href="https://wa.me/55459488"><img src="WhatsAppButtonGreenLarge.png" alt="Chat on WhatsApp" width="300",heith="100"></a>
  </body>
  </html>
