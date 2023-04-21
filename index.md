@@ -22,7 +22,7 @@
  <td><img src="IMG_5244.JPG" width="200" ,heigh="200"></td>
    </tr>
    <tr>
-    <td><img src="IMG_5243.JPG" width="200" ,heigh="200"></td>
+    <td><img/image src="IMG_5243.JPG" width="200" ,heigh="200"></td>
     <td><img src="IMG_5240.JPG" width="200" ,heigh="200"></td>
    </tr>
    <td><img src="000033160016.JPG" width="200" ,heigh="200"></td>
