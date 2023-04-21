@@ -23,7 +23,7 @@
 
 
  <p>Know more about me through my social media!</p>
- <a href="https://www.instagram.com/4k12s08y/"><img src="instagramicon.png" alt=“my instagram”></a>
+ <a href="https://www.instagram.com/4k12s08y/"><img src="instagramicon.png" wieth='200',heith='200' alt=“my instagram”></a>
  <a aria-label="Chat on WhatsApp" href="https://wa.me/5545”9488> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" /> </a>
  </body>
  </html>
