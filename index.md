@@ -21,6 +21,18 @@
    <td><img src="000033160011.JPG" width="200" ,heigh="200"></td>
   </tr>
   </table>
+  <h5>-My study objectives-</h5>
+  <p>My first objectives is to gain knowledge and skills of basic computing that can benefit me in my future careers and personal lives.And the second study objective is to 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 <p>Know more about me through my social media!</p>
 <a href="https://www.instagram.com/4k12s08y/"><img src="instagramicon.png" alt=“my instagram” width="200" ,heigh="200" ></a>
  <br>
