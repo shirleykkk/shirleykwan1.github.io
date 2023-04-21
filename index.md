@@ -9,9 +9,9 @@
  <p>i like to take photos with my film camera with my friends in my free time and singing,dancing also .In addition,i like to watch kpop videos in my free time too,it bring a lot of fun to me.</P>
  <h4><u>Here some photos that shoots by me<u></h4>
 <tr>
-  <img src="IMG_5246.JPG" ><img src="IMG_5344.JPG">
- <img src="IMG_5243.JPG" ><img src="IMG_5240.JPG">
- <img src="000033160016.JPG" ><img src="000033160011.JPG">
+  <img src="IMG_5246.JPG" width="200" ,heigh="200"><img src="IMG_5244.JPG" width="200" ,heigh="200">
+ <img src="IMG_5243.JPG" width="200" ,heigh="200"><img src="IMG_5240.JPG" width="200" ,heigh="200">
+ <img src="000033160016.JPG" width="200" ,heigh="200"><img src="000033160011.JPG" width="200" ,heigh="200">
   </tr>
 
 <p>Know more about me through my social media!</p>
