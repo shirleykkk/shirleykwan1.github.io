@@ -18,7 +18,7 @@
  <h4><u>Here some photos that shoots by me<u></h4>
   <table>
 <tr>
- <td><img src="IMG_5246.JPG" width="200" ,heigh="200"></td>
+ <td><img src="image/IMG_5246.JPG" width="200" ,heigh="200"></td>
  <td><img src="IMG_5244.JPG" width="200" ,heigh="200"></td>
    </tr>
    <tr>
