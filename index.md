@@ -15,7 +15,7 @@ I hope i can have a visible improvment after next semester.</p>
  <p>my current capabilities are not yet match my aspirations,to increase my capabilities,I would like to try more and practice more on it.
   Additionally,I will ask more questions when I facing difficulties as professors are more experienced and can give me a helpful suggestions on what I am doing.
 </p>
-<p>On week ,we've try tkinter to make a 
+<p>On week 1,we've try to make a taichi in a tkinter window
 
 
 
