@@ -12,7 +12,11 @@
   And the second study objective is to improve different skills during the lesson and practicing 
   as studying in IT can mainly will mainly use three skills,technical skills,problem-solving skills and communication skills.
 I hope i can have a visible improvment after next semester.</p>
- 
+ <p>my current capabilities are not yet match my aspirations,to increase my capabilities,I would like to try more and practice more on it.
+  Additionally,I will ask more questions when I facing difficulties as professors are more experienced and can give me a helpful suggestions on what I am doing.
+</p>
+<p>On week ,we've try tkinter to make a 
+
 
 
 
