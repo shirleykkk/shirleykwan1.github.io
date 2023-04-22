@@ -1,6 +1,4 @@
-<html lang="en">
-<head>
-<body>
+
 <h1 style="text-align:center;">Here’s Shirley Kwan</h1>
 <hr>
 
@@ -8,10 +6,8 @@
   <hr>
  <h3><a href="objectives.html" title="My study objectives and reflection">My study objectives and reflection</a></h3>
 
-<h4><a href="contact me.html" title="contact me">Contact Me</a></p4>
+<h4><a href="contact me.html" title="contact me">Contact Me</a></h4>
 
 
  
-</head>
-</body>
-</html>
+
