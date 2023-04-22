@@ -3,8 +3,8 @@
 <body>
 <h1 style="text-align:center;">Here’s Shirley Kwan</h1>
 <hr>
-<h2>About me</h2>
-  
+
+  <h2><a href="about me.html" title="About Me">About Me</a></h2>
 <p1>I am Shirley Kwan who studying in course <a href="https://www5.scope.edu/programmes/bachelors-degree-top-up/bsc-hons-information-technology-business">Fundamentals of Business Programming</a>that set up by Coventry University.</p1>
  
   <h3>My academic</h3>
