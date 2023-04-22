@@ -1,13 +1,18 @@
-#shirleykwan1.github.io
 <html lang="en">
 <head>
 <body>
 <h1 style="text-align:center;">Here’s Shirley Kwan</h1>
 <hr>
 <h2>About me</h2>
+  
 <p1>I am Shirley Kwan who studying in course <a href="https://www5.scope.edu/programmes/bachelors-degree-top-up/bsc-hons-information-technology-business">Fundamentals of Business Programming</a>that set up by Coventry University.</p1>
+ 
+  <h3>My academic</h3>
+  <p>2016-2022:study in Po Leung Kuk Mrs. Ma Kam Ming-Cheung Fook Sien College
+   <br>            senior form electives:ICT,Geog
+    <br>2022-now:study in Cityu Scope</p>
 
-<h3>-My study objectives and reflection -</h3>
+<h4>-My study objectives and reflection -</h4>
   
 <p>My first objectives is to gain knowledge and skills 
   of basic computing that can benefit me in my future 
@@ -36,7 +41,7 @@ In case of this we need to clarify what kind of function are needed
 
 
 
-<h4>-My hobby-</h4>
+<h5>-My hobby-</h5>
  <p>i like to take photos with my film camera with my friends in my free time and singing,dancing also .In addition,i like to watch kpop videos in my free time too,it bring a lot of fun to me.</P>
  <h4><u>Here some photos that shoots by me<u></h4>
   <table>
