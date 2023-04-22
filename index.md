@@ -46,18 +46,22 @@ In case of this we need to clarify what kind of function are needed
  <h4><u>Here some photos that shoots by me<u></h4>
   <table>
 <tr>
- <td><img src="image/IMG_5246.JPG" width="200" ,heigh="200"></td>
- <td><img src="image/IMG_5244.JPG" width="200" ,heigh="200"></td>
+ <td> ![000033160011](https://user-images.githubusercontent.com/116016750/233793711-e78864c3-89c4-4e44-b8eb-59a209691960.JPG)</td>
+ <td>![000033160016](https://user-images.githubusercontent.com/116016750/233793727-8dd0901a-304c-444f-9b31-67aa0b7a1ad5.JPG)</td>
    </tr>
    <tr>
-    <td><img src="image/IMG_5243.JPG" width="200" ,heigh="200"></td>
-    <td><img src="image/IMG_5240.JPG" width="200" ,heigh="200"></td>
+    <td>![IMG_5240](https://user-images.githubusercontent.com/116016750/233793732-85c64474-8160-47e9-961b-1b196b707e42.JPG)</td>
+    <td>![IMG_5243](https://user-images.githubusercontent.com/116016750/233793734-0ea0fd55-61dc-4f89-a1c8-60d6adf63f60.JPG)</td>
    </tr>
-   <td><img src="image/000033160016.JPG" width="200" ,heigh="200"></td>
-   <td><img src="image/000033160011.JPG" width="200" ,heigh="200"></td>
+   <td>![IMG_5244](https://user-images.githubusercontent.com/116016750/233793735-3f988884-4290-4c90-b0f5-2a753e72005a.JPG)</td>
+   <td>![IMG_5246](https://user-images.githubusercontent.com/116016750/233793736-c7d04096-73a0-4760-a781-7abef7a3b414.JPG)</td>
   </tr>
   </table>
-   
+  
+
+
+
+
    
    
    
