@@ -52,7 +52,8 @@ In case of this we need to clarify what kind of function are needed
 
 
    
- <h6>-contact me-</h6>   
+  
+  <h6><a href="contact me.html" title="contact me">Contact Me</a></p6>
 
 <a href="https://www.instagram.com/4k12s08y/">My instagram</a>
  <br>
