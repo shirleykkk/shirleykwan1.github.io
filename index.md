@@ -11,8 +11,11 @@
   <p>2016-2022:study in Po Leung Kuk Mrs. Ma Kam Ming-Cheung Fook Sien College
    <br>            senior form electives:ICT,Geog
     <br>2022-now:study in Cityu Scope</p>
+  
+  <h4>-My hobby-</h4>
+ <p>i like to take photos with my film camera with my friends in my free time and singing,dancing also .In addition,i like to watch kpop videos in my free time too,it bring a lot of fun to me.</P>
 
-<h4>-My study objectives and reflection -</h4>
+<h5>-My study objectives and reflection -</h5>
   
 <p>My first objectives is to gain knowledge and skills 
   of basic computing that can benefit me in my future 
@@ -41,38 +44,19 @@ In case of this we need to clarify what kind of function are needed
 
 
 
-<h5>-My hobby-</h5>
- <p>i like to take photos with my film camera with my friends in my free time and singing,dancing also .In addition,i like to watch kpop videos in my free time too,it bring a lot of fun to me.</P>
- <h4><u>Here some photos that shoots by me<u></h4>
-  <table>
-<tr>
- <td> ![000033160011](https://user-images.githubusercontent.com/116016750/233793711-e78864c3-89c4-4e44-b8eb-59a209691960.JPG)</td>
- <td>![000033160016](https://user-images.githubusercontent.com/116016750/233793727-8dd0901a-304c-444f-9b31-67aa0b7a1ad5.JPG)</td>
-   </tr>
-   <tr>
-    <td>![IMG_5240](https://user-images.githubusercontent.com/116016750/233793732-85c64474-8160-47e9-961b-1b196b707e42.JPG)</td>
-    <td>![IMG_5243](https://user-images.githubusercontent.com/116016750/233793734-0ea0fd55-61dc-4f89-a1c8-60d6adf63f60.JPG)</td>
-   </tr>
-   <td>![IMG_5244](https://user-images.githubusercontent.com/116016750/233793735-3f988884-4290-4c90-b0f5-2a753e72005a.JPG)</td>
-   <td>![IMG_5246](https://user-images.githubusercontent.com/116016750/233793736-c7d04096-73a0-4760-a781-7abef7a3b414.JPG)</td>
-  </tr>
-  </table>
+
+ 
   
 
 
 
 
    
-   
-   
-   
-   
-   
-   
+ <h6>-contact me-</h6>   
 <p>Know more about me through my social media!</p>
-<a href="https://www.instagram.com/4k12s08y/"><img src="image/instagramicon.png" alt=“my instagram” width="200" ,heigh="200" ></a>
+<a href="https://www.instagram.com/4k12s08y/"><My instagram></a>
  <br>
-<a href="https://wa.me/55459488"><img src="image/WhatsAppButtonGreenLarge.png" alt="Chat on WhatsApp" width="300" ,heigh="100" align="right" > </a>
+<a href="https://wa.me/55459488"><Chat on Whatsapp> </a>
 
  
 </head>
